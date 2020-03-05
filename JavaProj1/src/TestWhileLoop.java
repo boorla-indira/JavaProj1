@@ -15,6 +15,7 @@ public class TestWhileLoop {
 			System.out.println(s[j]);
 			j++;
 		}
+		
 	}
 	
 
